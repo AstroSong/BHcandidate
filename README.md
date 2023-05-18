@@ -1,4 +1,4 @@
-#BH candidates
+#BH candidates#
 | Name | Type of companion | Mvis | MBH | Period(day)  |Paper   |   Objection |Method|
 |-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | BG Gem| KI supergiant companion|||91|[Benson+2000](https://ui.adsabs.harvard.edu/abs/2000AJ....119..890B/abstract)| | RV|
@@ -20,5 +20,5 @@
  |Gaia BH2 | K giant| ||1277 | [El-Badry+2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.4323E/abstract)||RV+As |
 
 
-#Mass gap BH candidates
+#Mass gap BH candidates#
 
