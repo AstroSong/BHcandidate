@@ -1,8 +1,9 @@
 #BH found by RV
 
-| Name | Type of companion | Period  |Paper   |   Objection |
-| ---- ｜-------------------｜---------｜---------｜----------------- |
+| Name | Type of companion | Period  |Paper   |   Objection |\\
+| ---- ｜-------------------｜---------｜---------｜----------------- \\
 | BG Gem| KI supergiant companion|P=91天|Benson+2000| |
+
 | MWC 656|Be companion|P=60天|Casares+2014| |
 
 | AS 386| Be companion|P=131天|Khokhlov+2018| |
