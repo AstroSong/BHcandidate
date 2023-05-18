@@ -22,8 +22,9 @@ BH candidates
 |OGLE-2011-BLG-0462|||7.1(1.3),<br>1.6-4.2||[Sahu+2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...933...83S/abstract),<br>[Lam+2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...933L..23L/abstract)||GM|
 
 
-![Uploading Screen Shot 2023-05-18 at 2.53.21 PM.png…]()
-
+X-ray BHs
+----------
+![image](https://github.com/AstroSong/BHcandidate/blob/main/xray.png)
 
 
 Mass gap BH candidates
