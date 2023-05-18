@@ -25,10 +25,10 @@ Mass gap BH candidates
 ------------------------
 | Name | Type of companion | Mvis | MBH | Period(day)  |Paper   |  Method|
 |-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|4U 1543-47|A2 MS| |2.7-7.5| 1.1|Orosz+1998|Xray|
-|GX 339-4|| |2.3-9.5|1.7|Heida+2017|Xray|
-|GRO J0422+32| | |$2.7_{-0.5}^{+0.7}| |Casares+2022|Xray|
-|Cyg X-3 |WR | | $2.4_{-1.1}^{+2.1} | 0.2 |Zdziarski+2013|Xray|
+|4U 1543-47|A2 MS| |2.7-7.5| 1.1|[Orosz+1998](https://ui.adsabs.harvard.edu/abs/1998ApJ...499..375O/abstract)|Xray|
+|GX 339-4|| |2.3-9.5|1.7|[Heida+2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...846..132H/abstract)|Xray|
+|GRO J0422+32| | |$2.7_{-0.5}^{+0.7}| |[Kreidberg+2012](https://ui.adsabs.harvard.edu/abs/2012ApJ...757...36K/abstract},<br>[Casares+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516.2023C/abstract)|Xray|
+|Cyg X-3 |WR | | $2.4_{-1.1}^{+2.1} | 0.2 |[Zdziarski+2013](https://ui.adsabs.harvard.edu/abs/2013MNRAS.429L.104Z/abstract)|Xray|
 | MWC 656|Be companion||3.8-6.9|60|[Casares+2014](https://ui.adsabs.harvard.edu/abs/2014Natur.505..378C/abstract)|RV |
 | 2MASS J05215658+4359220 |K giant||$3.3^{+2.8}_{-0.7}$|83|[Thompson+2019](https://ui.adsabs.harvard.edu/abs/2019Sci...366..637T/abstract)| RV|
 | V723 Mon|K giant||3.04(0.06)| 59.9|[Jayasinghe+2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.2577J/abstract)| RV|
