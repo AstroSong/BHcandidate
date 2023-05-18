@@ -35,9 +35,17 @@ Mass gap BH candidates
 | 2MASS J05215658+4359220 |K giant||$3.3^{+2.8}_{-0.7}$|83|[Thompson+2019](https://ui.adsabs.harvard.edu/abs/2019Sci...366..637T/abstract)| RV|
 | V723 Mon|K giant||3.04(0.06)| 59.9|[Jayasinghe+2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.2577J/abstract)| RV|
 |OGLE-2011-BLG-0462|||1.6-4.2||[Lam+2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...933L..23L/abstract)|GM|
+|OGLE-2005-BLG-474|||4.5(1.8)|[Wyrzykowski+2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A..20W/abstract)|GM|
+|OGLE-2008-BLG-096|||$3.6^{+1.4}_{-1.6}$|[Wyrzykowski+2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A..20W/abstract)|GM|
+|OGLE-2008-BLG-545|||$3^{+1.3}_{-1.2}$|[Wyrzykowski+2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A..20W/abstract)|GM|
+|OGLE3-ULENS-PAR-03|||$2.4^{+1.9}_{-1.3}$|[Wyrzykowski+2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A..20W/abstract)|GM|
+|PAR-04|||$2.9^{+1.4}_{-1.3}$|[Wyrzykowski+2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A..20W/abstract)|GM|
+|PAR-12|||2.7(12)|[Wyrzykowski+2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A..20W/abstract)|GM|
+|PAR-39|||$2.6^{+1.7}_{-1.3}$|[Wyrzykowski+2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A..20W/abstract)|GM|
+|PAR-34|||$2.0^{+1.2}_{-0.9}$|[Wyrzykowski+2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A..20W/abstract)|GM|
 |GW190814|||2.59(one)||[Abbott+2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...896L..44A/abstract)|GW|
 |GW190425|||3.4(total)||[Abbott+2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...892L...3A/abstract)|GW|
-
+|GW200210_092254|||2.83^{+0.47}_{-0.42}$(total)||[Abbott+2021](https://arxiv.org/abs/2111.03606)|GW|
 
 
 
