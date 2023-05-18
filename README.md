@@ -1,5 +1,5 @@
 #BH candidates
-| Name | Type of companion | Period(day)  |Paper   |   Objection |
+| Name | Type of companion | Mvis ｜ M_{BH} | Period(day)  |Paper   |   Objection |
 |-------|:-----:|:-----:|:-----:|:-----:|
 | BG Gem| KI supergiant companion|91|[Benson+2000](https://ui.adsabs.harvard.edu/abs/2000AJ....119..890B/abstract)| | 
 | MWC 656|Be companion|60|[Casares+2014](https://ui.adsabs.harvard.edu/abs/2014Natur.505..378C/abstract)| [Rivinius+2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220812315R/abstract)|
