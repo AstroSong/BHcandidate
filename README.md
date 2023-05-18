@@ -1,6 +1,4 @@
 #BH candidates
-
-<font size=5 >
 | Name | Type of companion | Period(day)  |Paper   |   Objection |
 |-------|:-----:|:-----:|:-----:|:-----:|
 | BG Gem| KI supergiant companion|91|[Benson+2000](https://ui.adsabs.harvard.edu/abs/2000AJ....119..890B/abstract)| | 
@@ -20,4 +18,4 @@
 | Gaia DR3 5870569352746779008 | red giant | 1352.22 | [Tanikawa+2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...946...79T/abstract)
  |Gaia BH1 | G type | 185.6 | [El-Badry+2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1057E/abstract)||
  |Gaia BH2 | K giant| 1277 | [El-Badry+2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.4323E/abstract)||
-</font>
+
