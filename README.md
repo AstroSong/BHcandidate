@@ -3,7 +3,8 @@
 | Name | Type of companion | Period(day)  |Paper   |   Objection |
 |-------|:-----:|:-----:|:-----:|:-----:|
 | BG Gem| KI supergiant companion|P=91天|Benson+2000| | 
-| MWC 656|Be companion|60|Casares+2014| |
+| MWC 656|Be companion|60|[Casares+2014](https://ui.adsabs.harvard.edu/abs/2014Natur.505..378C/abstract)| [Rivinius+2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220812315R/abstract)|
+
 | AS 386| Be companion|131|Khokhlov+2018| |
 | GC NGC 3201  \#12560| G/K MSTO companion｜167|Giesers+2018,2019| |
 | GC NGC 3201 \#21859| K type| 2.24|Giesers+2019| |
