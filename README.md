@@ -1,4 +1,4 @@
-#BH found by RV
+#BH candidates
 
 | Name | Type of companion | Period(day)  |Paper   |   Objection |
 |-------|:-----:|:-----:|:-----:|:-----:|
@@ -12,4 +12,10 @@
 | HR 6819|Be companion|40 | [Rivinius+2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...637L...3R/abstract)|[El-Badry+2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3436E/abstract) |
 | V723 Mon|K giant| 59.9|[Jayasinghe+2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.2577J/abstract)| [El-Badry+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.5620E/abstract)|
 | NGC 1850 BH1|B MSTO companion|5.04|[Saracino+2021](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.2914S/abstract)|[El-Badry+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511L..24E/abstract)|
-| NGC2004\#115 | B companion｜2.9|[lennon+2021](https://ui.adsabs.harvard.edu/abs/2022A%26A...665A.180L/abstract)|[El-Badry+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.3089E/abstract)|
+| NGC2004\#115 | B companion|2.9|[lennon+2021](https://ui.adsabs.harvard.edu/abs/2022A%26A...665A.180L/abstract)|[El-Badry+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.3089E/abstract)|
+| VFTS 243 | O type | 10.4 | [Shenar+2022](https://ui.adsabs.harvard.edu/abs/2022NatAs...6.1085S/abstract)||
+ | HD 130298 | Otype | 14.6 | [Mahy+2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...664A.159M/abstract)||
+ | Gaia DR3 4373465352415301632| G type MS | 185 |  [Chakrabarti+2022](https://ui.adsabs.harvard.edu/abs/2022arXiv221005003C/abstract)||
+| Gaia DR3 5870569352746779008 | red giant | 1352.22 | [Tanikawa+2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...946...79T/abstract)
+ |Gaia BH1 | G type | 185.6 | [El-Badry+2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1057E/abstract)||
+ |Gaia BH2 | K giant| 1277 | El-Badry+2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.4323E/abstract)||
