@@ -24,6 +24,7 @@ BH candidates [RV+As+GM]
 
 X-ray BHs
 ----------
+https://www.astro.puc.cl/BlackCAT/
 |Name|Type_vis |Mvis|MBH|q|Porb(hour)|K1(km/s)| 
 |-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |M33 X7|O7III-O8III|70.0(6.9)|15.65(1.45)||82.8|108.9(5.7)| 
