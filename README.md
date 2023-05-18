@@ -1,4 +1,4 @@
-BH candidates
+BH candidates [RV+As+GM]
 --------------
 | Name | Type_vis | Mvis | MBH | Porb(day)  |Paper   |   Objection |Method|
 |-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
