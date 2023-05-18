@@ -19,7 +19,7 @@ BH candidates
 | Gaia DR3 5870569352746779008 | red giant ||| 1352.22 | [Tanikawa+2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...946...79T/abstract)| | NSS|
  |Gaia BH1 | G type ||| 185.6 | [El-Badry+2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1057E/abstract)||RV+As |
  |Gaia BH2 | K giant| ||1277 | [El-Badry+2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.4323E/abstract)||RV+As |
-|OGLE-2011-BLG-0462|||7.1(1.3),<br>1.6-4.2||[Sahu+2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...933...83S/abstract),<br>[Lam+2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...933L..23L/abstract)|GM|
+|OGLE-2011-BLG-0462|||7.1(1.3),<br>1.6-4.2||[Sahu+2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...933...83S/abstract),<br>[Lam+2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...933L..23L/abstract)||GM|
 
 
 
@@ -29,12 +29,14 @@ Mass gap BH candidates
 |-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |4U 1543-47|A2 MS| |2.7-7.5| 1.1|[Orosz+1998](https://ui.adsabs.harvard.edu/abs/1998ApJ...499..375O/abstract)|Xray|
 |GX 339-4|| |2.3-9.5|1.7|[Heida+2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...846..132H/abstract)|Xray|
-|GRO J0422+32| | |$2.7_{-0.5}^{+0.7}$| |[Kreidberg+2012](https://ui.adsabs.harvard.edu/abs/2012ApJ...757...36K/abstract},<br>[Casares+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516.2023C/abstract)|Xray|
+|GRO J0422+32| | |$2.7_{-0.5}^{+0.7}$| |[Kreidberg+2012](https://ui.adsabs.harvard.edu/abs/2012ApJ...757...36K/abstract),<br>[Casares+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516.2023C/abstract)|Xray|
 |Cyg X-3 |WR | | $2.4_{-1.1}^{+2.1}$ | 0.2 |[Zdziarski+2013](https://ui.adsabs.harvard.edu/abs/2013MNRAS.429L.104Z/abstract)|Xray|
 | MWC 656|Be companion||3.8-6.9|60|[Casares+2014](https://ui.adsabs.harvard.edu/abs/2014Natur.505..378C/abstract)|RV |
 | 2MASS J05215658+4359220 |K giant||$3.3^{+2.8}_{-0.7}$|83|[Thompson+2019](https://ui.adsabs.harvard.edu/abs/2019Sci...366..637T/abstract)| RV|
 | V723 Mon|K giant||3.04(0.06)| 59.9|[Jayasinghe+2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.2577J/abstract)| RV|
 |OGLE-2011-BLG-0462|||1.6-4.2||[Lam+2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...933L..23L/abstract)|GM|
+|GW190814|||2.59(one)||[Abbott+2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...896L..44A/abstract)|GW|
+|GW190425|||3.4(total)||[Abbott+2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...892L...3A/abstract)|GW|
 
 
 
