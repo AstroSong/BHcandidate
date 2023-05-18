@@ -45,7 +45,7 @@ Mass gap BH candidates
 |PAR-34|||$2.0^{+1.2}_{-0.9}$|[Wyrzykowski+2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A..20W/abstract)|GM|
 |GW190814|||2.59(one)||[Abbott+2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...896L..44A/abstract)|GW|
 |GW190425|||3.4(total)||[Abbott+2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...892L...3A/abstract)|GW|
-|GW200210_092254|||2.83^{+0.47}_{-0.42}$(total)||[Abbott+2021](https://arxiv.org/abs/2111.03606)|GW|
+|GW200210_092254|||$2.83^{+0.47}_{-0.42}$(one)||[Abbott+2021](https://arxiv.org/abs/2111.03606)|GW|
 
 
 
