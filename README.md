@@ -1,11 +1,8 @@
 #BH found by RV
 
 | Name | Type of companion | Period  |Paper   |   Objection |
-
 | ---- ｜-------------------｜---------｜---------｜----------------- |
-
 | BG Gem| KI supergiant companion|P=91天|Benson+2000| |
-
 | MWC 656|Be companion|P=60天|Casares+2014| |
 
 | AS 386| Be companion|P=131天|Khokhlov+2018| |
@@ -24,4 +21,4 @@
 
 | NGC 1850 BH1|B MSTO companion|P=5.04天｜Saracino+2021|有反对 |
 
-| NGC2004#115|B companion｜P=2.9天|lennon+2021|有反对 |
+| NGC2004\#115 | B companion｜P=2.9天|lennon+2021|有反对 |
