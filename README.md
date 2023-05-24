@@ -15,10 +15,8 @@ BH candidates [RV+As+GM]
 | NGC2004\#115 | B |||2.9|[lennon+2021](https://ui.adsabs.harvard.edu/abs/2022A%26A...665A.180L/abstract)|[El-Badry+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.3089E/abstract)| RV|
 | VFTS 243 | O type ||| 10.4 | [Shenar+2022](https://ui.adsabs.harvard.edu/abs/2022NatAs...6.1085S/abstract)||RV |
  | HD 130298 | Otype ||| 14.6 | [Mahy+2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...664A.159M/abstract)|| RV|
- | Gaia DR3 4373465352415301632| G type MS|| | 185 |  [Chakrabarti+2022](https://ui.adsabs.harvard.edu/abs/2022arXiv221005003C/abstract)|| RV+As|
-| Gaia DR3 5870569352746779008 | red giant ||| 1352.22 | [Tanikawa+2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...946...79T/abstract)| | NSS|
- |Gaia BH1 | G type ||| 185.6 | [El-Badry+2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1057E/abstract)||RV+As |
- |Gaia BH2 | K giant| ||1277 | [El-Badry+2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.4323E/abstract)||RV+As |
+ |Gaia BH1, Gaia DR3 4373465352415301632 | G type MS||| 185.6 | [El-Badry+2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1057E/abstract),<br>[Chakrabarti+2022](https://ui.adsabs.harvard.edu/abs/2022arXiv221005003C/abstract)||RV+As |
+ |Gaia BH2, Gaia DR3 5870569352746779008 | K giant| ||1277 | [El-Badry+2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.4323E/abstract),<br>[Tanikawa+2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...946...79T/abstract)||RV+As |
 |OGLE-2011-BLG-0462|||7.1(1.3),<br>1.6-4.2||[Sahu+2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...933...83S/abstract),<br>[Lam+2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...933L..23L/abstract)||GM|
 
 
