@@ -5,7 +5,7 @@ BH candidates [RV+As+GM]
 | BG Gem| KI supergiant|||91|[Benson+2000](https://ui.adsabs.harvard.edu/abs/2000AJ....119..890B/abstract)| | RV|
 | MWC 656|Be||5.35(1.55)|60|[Casares+2014](https://ui.adsabs.harvard.edu/abs/2014Natur.505..378C/abstract)| [Rivinius+2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220812315R/abstract)|RV |
 | AS 386| Be||>7|131|[Khokhlov+2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...856..158K/abstract)| |RV |
-| GC NGC 3201  \#12560| G/K MSTO ||$\geq$4.36| 167|[Giesers+2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.475L..15G/abstract),<br>[Giesers+2019](https://ui.adsabs.harvard.edu/abs/2019A%26A...632A...3G/abstract)| |RV |
+| GC NGC 3201  \#12560| G/K MSTO ||$\geq4.36$| 167|[Giesers+2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.475L..15G/abstract),<br>[Giesers+2019](https://ui.adsabs.harvard.edu/abs/2019A%26A...632A...3G/abstract)| |RV |
 | GC NGC 3201 \#21859| K type| |>7.68|2.24|[Giesers+2019](https://ui.adsabs.harvard.edu/abs/2019A%26A...632A...3G/abstract)| | RV|
 | LB-1|Be|3-6|20-50|79|[Liu+2019](https://ui.adsabs.harvard.edu/abs/2019Natur.575..618L/abstract),<br>[Liu+2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...900...42L/abstract)|[Shenar+2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...639L...6S/abstract),<br>[El-Badry+2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3436E/abstract) | RV|
 | 2MASS J05215658+4359220 |K giant|3.2(1)|$3.3^{+2.8}_{-0.7}$|83|[Thompson+2019](https://ui.adsabs.harvard.edu/abs/2019Sci...366..637T/abstract)|[van den Heuvel+2020](https://ui.adsabs.harvard.edu/abs/2020Sci...368.3282V/abstract) | RV|
@@ -18,7 +18,7 @@ BH candidates [RV+As+GM]
  |Gaia BH1, Gaia DR3 4373465352415301632 | G type MS||9.78(0.18)| 185.6 | [El-Badry+2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1057E/abstract),<br>[Chakrabarti+2022](https://ui.adsabs.harvard.edu/abs/2022arXiv221005003C/abstract)||RV+As |
  |Gaia BH2, Gaia DR3 5870569352746779008 | K giant| |8.93(0.33)|1277 | [El-Badry+2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.4323E/abstract),<br>[Tanikawa+2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...946...79T/abstract)||RV+As |
  |Gaia BH3, Gaia DR3 4318465066420528000 | G giant| |32.7(0.82)|4200 | [Gaia+2024](https://arxiv.org/pdf/2404.10486)||RV+As |
- |PSR J0514−4002E | Pulsar| |2.35$^+{0.20}_{-0.18}$|7.44 | [Barr+2024](https://www.science.org/doi/10.1126/science.adg3005)||Pulsar timing |
+ |PSR J0514−4002E | Pulsar| |$2.35^+{0.20}_{-0.18}$|7.44 | [Barr+2024](https://www.science.org/doi/10.1126/science.adg3005)||Pulsar timing |
 |OGLE-2011-BLG-0462|||7.1(1.3),<br>1.6-4.2||[Sahu+2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...933...83S/abstract),<br>[Lam+2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...933L..23L/abstract)||GM|
 
 
