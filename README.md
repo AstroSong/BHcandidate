@@ -17,6 +17,8 @@ BH candidates [RV+As+GM]
  | HD 130298 | Otype ||| 14.6 | [Mahy+2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...664A.159M/abstract)|| RV|
  |Gaia BH1, Gaia DR3 4373465352415301632 | G type MS||| 185.6 | [El-Badry+2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1057E/abstract),<br>[Chakrabarti+2022](https://ui.adsabs.harvard.edu/abs/2022arXiv221005003C/abstract)||RV+As |
  |Gaia BH2, Gaia DR3 5870569352746779008 | K giant| ||1277 | [El-Badry+2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.4323E/abstract),<br>[Tanikawa+2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...946...79T/abstract)||RV+As |
+ |Gaia BH3, Gaia DR3 4318465066420528000 | G giant| ||4200 | [Gaia+2024](https://arxiv.org/pdf/2404.10486)||RV+As |
+ |Gaia BH3, Gaia DR3 4318465066420528000 | Pulsar| ||7.44 | [Barr+2024](https://www.science.org/doi/10.1126/science.adg3005)||Pulsar timing |
 |OGLE-2011-BLG-0462|||7.1(1.3),<br>1.6-4.2||[Sahu+2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...933...83S/abstract),<br>[Lam+2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...933L..23L/abstract)||GM|
 
 
