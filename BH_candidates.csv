@@ -1,4 +1,4 @@
-Name , Type_vis , Mvis , MBH , Porb(day)  ,Paper   ,   Objection ,Method
+Name , Type_vis , Mvis , MBH , Porb(day)  ,Paper   ,   Objection ,Method[RV+As+GM]
 BG Gem, KI supergiant,,,91,[Benson+2000](https://ui.adsabs.harvard.edu/abs/2000AJ....119..890B/abstract), , RV
 AS 386, Be,,$\geq7$,131,[Khokhlov+2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...856..158K/abstract), ,RV 
 GC NGC 3201  \#12560, G/K MSTO ,,$\geq4.36$, 167,[Giesers+2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.475L..15G/abstract);<br>[Giesers+2019](https://ui.adsabs.harvard.edu/abs/2019A%26A...632A...3G/abstract), ,RV ,
