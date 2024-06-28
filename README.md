@@ -87,7 +87,7 @@ Stripped binaries
 |HR6819 | B giant |16000|2.75|0.47 | ~27% |Be|18000|3.75|6.7 | 40.3 | emission | decretion disk | [El-Badry+2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3436E/abstract)|
 |NGC1850 BH1 | B subgiant | 15000 | ~6Rsun|1| 100% | B| | |3.5|5.04| absorption| No disk; accretor not spun up |[El-Badry+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511L..24E/abstract)|
 |V723Mon (Unicorn)| giant |3800 | 22.5Rsun|0.44|90%|subgiant| 5800|8.4Run|2.8|60|emission| accretion disk | [El-Badry+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.5620E/abstract)| 
-|2M0412 (Giraffe)| giant| 4000 | 25 Rsun| 0.33| 97% | subgiant|5150|9Rsun|1.8|81||emission|accretion disk|[El-Badry+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.5620E/abstract) |
+|2M0412 (Giraffe)| giant| 4000 | 25 Rsun| 0.33| 97% | subgiant|5150|9Rsun|1.8|81|emission|accretion disk|[El-Badry+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.5620E/abstract) |
 
 
 
