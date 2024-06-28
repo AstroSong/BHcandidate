@@ -7,7 +7,7 @@
 [Stripped binaries](#Stripped_binaries)
 
 
-BH candidates [RV+As+GM]
+BH_candidates_[RV+As+GM]
 --------------
 | Name | Type_vis | Mvis | MBH | Porb(day)  |Paper   |   Objection |Method|
 |-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -61,7 +61,7 @@ https://www.astro.puc.cl/BlackCAT/
 |4U 1956+350/Cyg X-1|O9.7Iab|19.2(1.9)|14.8(1.0)||134.4|74.46(0.51)|  
 
 
-Mass gap BH candidates
+Mass_gap_BH_candidates
 ------------------------
 | Name | Type_vis | Mvis | MBH | Porb(day)  |Paper   |  Method|
 |-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -88,7 +88,7 @@ Mass gap BH candidates
 
 
 
-Stripped binaries
+Stripped_binaries
 ------------------------
 | Name | Type_dornor | Teff_Dornor | logg/R_Dornor  |  Mdornor |  RL_dornor  |  Type_accretor  |  Teff_accretor  |  logg/R_Accretor |  Maccretor | Porb(day)  |    $H_{\alpha}$ line  | Line from? | Paper |
 |-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
