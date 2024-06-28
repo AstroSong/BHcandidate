@@ -1,3 +1,9 @@
+[BH candidates [RV+As+GM]](#BH candidates [RV+As+GM])
+[X-ray BHs(#X-ray BHs)]
+[Mass gap BH candidates](#Mass gap BH candidates)
+[Stripped binaries](#Stripped binaries)
+
+
 BH candidates [RV+As+GM]
 --------------
 | Name | Type_vis | Mvis | MBH | Porb(day)  |Paper   |   Objection |Method|
