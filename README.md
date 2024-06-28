@@ -83,11 +83,11 @@ Stripped binaries
 ------------------------
 | Name | Type_dornor | Teff_Dornor | logg/R_Dornor  |  Mdornor |  RL_dornor  |  Type_accretor  |  Teff_accretor  |  logg/R_Accretor |  Maccretor | Porb(day)  |    $H_{\alpha}$ line  | Line from? | Paper |
 |-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|LB-1   | B subgiant | 12700 |3.0|1.1| ~13% | B3Ve | 18000| 4.0 | 5 | 78.8 | emission | decretion disk | [Shenar+2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...639L...6S/abstract) ｜
+|LB-1   | B subgiant | 12700 |3.0|1.1| ~13% | B3Ve | 18000| 4.0 | 5 | 78.8 | emission | decretion disk | [Shenar+2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...639L...6S/abstract) |
 |HR6819 | B giant |16000|2.75|0.47 | ~27% |Be|18000|3.75|6.7 | 40.3 | emission | decretion disk | [El-Badry+2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3436E/abstract)|
 |NGC1850 BH1 | B subgiant | 15000 | ~6Rsun|1| 100% | | | 3.5|5.04| absorption| No disk; accretor not spun up |[El-Badry+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511L..24E/abstract)|
-|V723Mon (Unicorn)| giant |3800 | 22.5Rsun|0.44|90%|subgiant| 5800|8.4Run|2.8|emission| accretion disk | [El-Badry+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.5620E/abstract)|
-|2M0412 (Giraffe)| giant| 4000 | 25 Rsun| 0.33| 97% | subgiant|5150|9Rsun|1.8|emission|accretion disk|[El-Badry+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.5620E/abstract)|
+|V723Mon (Unicorn)| giant |3800 | 22.5Rsun|0.44|90%|subgiant| 5800|8.4Run|2.8|emission| accretion disk | [El-Badry+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.5620E/abstract)| 
+|2M0412 (Giraffe)| giant| 4000 | 25 Rsun| 0.33| 97% | subgiant|5150|9Rsun|1.8|emission|accretion disk|[El-Badry+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.5620E/abstract) |
 
 
 
