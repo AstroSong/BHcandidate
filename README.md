@@ -1,3 +1,6 @@
+[Content](#Content)
+--------------
+
 [BH candidates [RV+As+GM]](#BH_candidates_[RV+As+GM])
 
 [X-ray BHs](#X-ray_BHs)
