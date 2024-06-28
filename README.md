@@ -1,7 +1,10 @@
 [BH candidates [RV+As+GM]](#BH_candidates_[RV+As+GM])
-[X-ray BHs(#X-ray BHs)]
-[Mass gap BH candidates](#Mass gap BH candidates)
-[Stripped binaries](#Stripped binaries)
+
+[X-ray BHs](#X-ray_BHs)
+
+[Mass gap BH candidates](#Mass_gap_BH_candidates)
+
+[Stripped binaries](#Stripped_binaries)
 
 
 BH candidates [RV+As+GM]
