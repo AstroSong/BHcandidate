@@ -10,7 +10,7 @@
 [Stripped binaries](#Stripped_binaries)
 
 
-BH_candidates_[RV+As+GM]\ \ \ \ \ \ Goto [Content](#Content)
+BH_candidates_[RV+As+GM]            Goto [Content](#Content)
 --------------
 | Name | Type_vis | Mvis | MBH | Porb(day)  |Paper   |   Objection |Method|
 |-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -34,7 +34,7 @@ BH_candidates_[RV+As+GM]\ \ \ \ \ \ Goto [Content](#Content)
 | NGC2004\#115 | B |||2.9|[lennon+2021](https://ui.adsabs.harvard.edu/abs/2022A%26A...665A.180L/abstract)|[El-Badry+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.3089E/abstract)| RV|
 
 
-X-ray_BHs
+X-ray_BHs            Goto [Content](#Content)
 ----------
 https://www.astro.puc.cl/BlackCAT/
 |Name|Type_vis |Mvis|MBH|q|Porb(hour)|K1(km/s)| 
