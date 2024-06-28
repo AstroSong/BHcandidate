@@ -10,7 +10,7 @@
 [Stripped binaries](#Stripped_binaries)
 
 
-BH_candidates_[RV+As+GM]
+BH_candidates_[RV+As+GM]\ \ \ \ \ \ Goto [Content](#Content)
 --------------
 | Name | Type_vis | Mvis | MBH | Porb(day)  |Paper   |   Objection |Method|
 |-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
