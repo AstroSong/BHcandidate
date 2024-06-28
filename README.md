@@ -10,8 +10,9 @@
 [Stripped binaries](#Stripped_binaries)
 
 
-BH_candidates_[RV+As+GM]            Goto [Content](#Content)
+BH_candidates_[RV+As+GM]            
 --------------
+Go back to [Content](#Content)
 | Name | Type_vis | Mvis | MBH | Porb(day)  |Paper   |   Objection |Method|
 |-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | AS 386| Be||$\geq7$|131|[Khokhlov+2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...856..158K/abstract)| |RV |
@@ -34,8 +35,9 @@ BH_candidates_[RV+As+GM]            Goto [Content](#Content)
 | NGC2004\#115 | B |||2.9|[lennon+2021](https://ui.adsabs.harvard.edu/abs/2022A%26A...665A.180L/abstract)|[El-Badry+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.3089E/abstract)| RV|
 
 
-X-ray_BHs            Goto [Content](#Content)
+X-ray_BHs
 ----------
+Go back to [Content](#Content)
 https://www.astro.puc.cl/BlackCAT/
 |Name|Type_vis |Mvis|MBH|q|Porb(hour)|K1(km/s)| 
 |-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
