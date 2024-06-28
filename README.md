@@ -38,6 +38,7 @@ Go back to [Content](#Content)
 X-ray_BHs
 ----------
 Go back to [Content](#Content)
+
 https://www.astro.puc.cl/BlackCAT/
 |Name|Type_vis |Mvis|MBH|q|Porb(hour)|K1(km/s)| 
 |-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -68,6 +69,7 @@ https://www.astro.puc.cl/BlackCAT/
 
 Mass_gap_BH_candidates
 ------------------------
+Go back to [Content](#Content)
 | Name | Type_vis | Mvis | MBH | Porb(day)  |Paper   |  Method|
 |-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |4U 1543-47|A2 MS| |2.7-7.5| 1.1|[Orosz+1998](https://ui.adsabs.harvard.edu/abs/1998ApJ...499..375O/abstract)|Xray|
@@ -95,6 +97,7 @@ Mass_gap_BH_candidates
 
 Stripped_binaries
 ------------------------
+Go back to [Content](#Content)
 | Name | Type_dornor | Teff_Dornor | logg/R_Dornor  |  Mdornor |  RL_dornor  |  Type_accretor  |  Teff_accretor  |  logg/R_Accretor |  Maccretor | Porb(day)  |    $H_{\alpha}$ line  | Line from? | Paper |
 |-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |LB-1   | B subgiant | 12700 |3.0|1.1| ~13% | B3Ve | 18000| 4.0 | 5 | 78.8 | emission | decretion disk | [Shenar+2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...639L...6S/abstract) |
