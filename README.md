@@ -75,11 +75,15 @@ Mass gap BH candidates
 |GW190814|||2.59(one)||[Abbott+2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...896L..44A/abstract)|GW|
 |GW190425|||3.4(total)||[Abbott+2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...892L...3A/abstract)|GW|
 |GW200210_092254|||$2.83^{+0.47}_{-0.42}$(one)||[Abbott+2021](https://arxiv.org/abs/2111.03606)|GW|
-|GW230529|||2.5--4.5(one)||[LIGO+2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240404248T/abstract)|GW|
+|GW230529|||2.5-4.5(one)||[LIGO+2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240404248T/abstract)|GW|
 
 
 
-
+Stripped binaries
+------------------------
+| Name | Type_dornor | Teff_Dornor | logg_Dornor  |  Mdornor |  RL_dornor  |  Type_accretor  |  Teff_accretor  |  logg_Accretor |  Maccretor | Porb(day)  |    $H_{\alpha}$ line  | Line from? | Paper |
+|-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|LB-1   | subgiant | 12700 |3.0|1.1| ~13% | B3Ve | 18000| 4.0 | 5 | 78.8 | emission | decretion disk｜ [Shenar+2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...639L...6S/abstract) ｜
 
 
 
