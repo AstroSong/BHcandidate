@@ -77,8 +77,9 @@ Go back to [Content](#Content)
 |GRO J0422+32| | |$2.7_{-0.5}^{+0.7}$| |[Kreidberg+2012](https://ui.adsabs.harvard.edu/abs/2012ApJ...757...36K/abstract),<br>[Casares+2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516.2023C/abstract)|Xray|
 |Cyg X-3 |WR | | $2.4_{-1.1}^{+2.1}$ | 0.2 |[Zdziarski+2013](https://ui.adsabs.harvard.edu/abs/2013MNRAS.429L.104Z/abstract)|Xray|
 | MWC 656|Be ||3.8-6.9|60|[Casares+2014](https://ui.adsabs.harvard.edu/abs/2014Natur.505..378C/abstract)|RV |
-| 2MASS J05215658+4359220 |K giant||$3.3^{+2.8}_{-0.7}$|83|[Thompson+2019](https://ui.adsabs.harvard.edu/abs/2019Sci...366..637T/abstract)| Pulsar Timing|
-| PSR J0514−4002E|||$2.35^{+0.20}_{-0.18}$| 7.44|[Barr+2024](https://www.science.org/doi/10.1126/science.adg3005)| RV|
+| 2MASS J05215658+4359220 |K giant|2.7--3.6|$3.3^{+2.8}_{-0.7}$|83|[Thompson+2019](https://ui.adsabs.harvard.edu/abs/2019Sci...366..637T/abstract)| RV|
+｜G3425 | K giant | $2.66^{+1.18}_{-0.68}$ | $3.6^{+0.8}_{-0.5}$ | 880 | [Wang+2024](https://ui.adsabs.harvard.edu/abs/2024NatAs...8.1583W/abstract)| RV \& Astronomy|
+| PSR J0514−4002E|||$2.35^{+0.20}_{-0.18}$| 7.44|[Barr+2024](https://www.science.org/doi/10.1126/science.adg3005)| Pulsar Timing|
 |OGLE-2011-BLG-0462|||1.6-4.2||[Lam+2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...933L..23L/abstract)|GM|
 |OGLE-2005-BLG-474|||4.5(1.8)||[Wyrzykowski+2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A..20W/abstract)|GM|
 |OGLE-2008-BLG-096|||$3.6^{+1.4}_{-1.6}$||[Wyrzykowski+2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A..20W/abstract)|GM|
